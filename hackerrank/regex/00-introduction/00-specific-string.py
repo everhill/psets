@@ -1,6 +1,8 @@
 #
 # Matching Specific String
 #
+# We can match a specific string by making our search pattern that string.
+#
 # https://www.hackerrank.com/challenges/matching-specific-string/problem
 #
 
